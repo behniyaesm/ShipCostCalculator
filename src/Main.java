@@ -39,9 +39,8 @@ public class Main
         {
             trash = in.nextLine(); //takes user input and makes it trash
             System.out.println(trash + " is not a valid number!");
-            System.out.println("Run teh program again with the correct input!");
+            System.out.println("Run the program again with the correct input!");
         }
-
 
     }
 }
